@@ -1,5 +1,7 @@
 # IceCream
-Ice cream order simulation app - school project
+Ice cream order simulation app - school project - C++
+
+Developed using C++
 
 This ice cream ordering app was developed as a school project during my C++ programming class at Calhoun Community College.
 There were several specifications that I had to follow, but I learned many, many things along the way.
